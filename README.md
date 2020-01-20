@@ -3,8 +3,8 @@
 
 
 This repository contains five class projects, including project description, implemented *python* code as well as project report:
-- Classfication
+- Classification Analysis on Textual Data
 - Clustering
 - Collaborative Filtering
 - Regression
-- Application: Twitter data
+- Application: Twitter Data
