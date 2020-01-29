@@ -3,7 +3,7 @@
 
 
 This repository records five class projects, with each one of them containing project description, python code implementation, as well as project report:
-- **[Classification Analysis on Textual Data]**(https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification)
+- [**Classification Analysis on Textual Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification)
 - **Clustering**
 - **Collaborative Filtering**
 - **Regression**
