@@ -1,1 +1,3 @@
-New File
+![Stephen Curry](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/blob/master/project2-clustering/stephen_curry.jpg)
+
+![Stephen Curry Segmentation](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/blob/master/project2-clustering/stephen_curry_seg.png)
