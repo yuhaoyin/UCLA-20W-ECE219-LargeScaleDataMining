@@ -1,6 +1,6 @@
 # Clustering Analysis Application - Image Segmentation
 
-Here is an exciting example of image segementation implemented by **K-means** clustering algorithm, using my favorite basketball player, Stephen Curry from Golden State Warriors!
+Here is an exciting example of image segementation implemented by ***K-means clustering*** algorithm, using my favorite basketball player, Stephen Curry from Golden State Warriors!
 
 Original Image            |  Image Segmentation
 :-------------------------:|:-------------------------:
