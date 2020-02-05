@@ -4,4 +4,4 @@ Here is an exciting example of image segementation implemented by ***K-means clu
 
 Original Image            |  Image Segmentation
 :-------------------------:|:-------------------------:
-![](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/blob/master/project2-clustering/stephen_curry.jpg)  |  ![](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/blob/master/project2-clustering/stephen_curry_seg.png)
+![](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/blob/master/project2-clustering/project2_figures/stephen_curry.jpg)  |  ![](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/blob/master/project2-clustering/project2_figures/stephen_curry_seg.png)
