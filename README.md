@@ -5,7 +5,7 @@
 This repository records five class projects, with each one of them containing project description, python code implementation, as well as project report:
 
 
-## [**1. Classification**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification) ##
+## [Project 1: Classification](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification) ##
   - 20 Newsgroups Textual Dataset
   - TF-IDF Metrix and Word Lemmatization
   - Models include SVM, Logsitic Regression and Naive Bayes
