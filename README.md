@@ -11,17 +11,17 @@ This repository records five class projects, with each one of them containing pr
   - Models include SVM, Logsitic Regression and Naive Bayes
   - Multiclass Classification
   
-## [2. Clustering](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project2-clustering) ##
+## [Project 2: Clustering](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project2-clustering) ##
   - 20 Newsgroups Textual Dataset
   - Dimensionality Reduction: PCA and NMF
   - K-means Clustering
   - Application: Celebrity's Face Image Segmentation
   
-## [3. Recommendation Systems](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems) ##
+## [Project 3: Recommendation Systems](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems) ##
   - MovieLens Dataset
   - Collaborative Filtering Models
   - Parallel Computing (joblib)
   
-## 4. Regression ##
+## Project 4: Regression ##
   
-## 5. Application: Twitter Data ##
+## Project 5: Application: Twitter Data ##
