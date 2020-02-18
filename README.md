@@ -4,7 +4,11 @@
 
 This repository records five class projects, with each one of them containing project description, python code implementation, as well as project report:
 - [**Classification Analysis on Textual Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification)
-- [**Clustering Analysis on Textual Data and Image Segmentation**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project2-clustering)
-- [**Recommendation Systems with Collaborative Filtering using Parallel Computing**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems)
+  - 
+- [**Clustering Analysis on Textual Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project2-clustering)
+  - Application: Image Segmentation
+- [**Recommendation Systems on MovieLens Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems)
+  - Collaborative Filtering Models
+  - Parallel Computing
 - **Regression**
 - **Application: Twitter Data**
