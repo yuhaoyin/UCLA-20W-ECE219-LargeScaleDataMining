@@ -20,12 +20,8 @@ This repository records five class projects, with each one of them containing pr
 ## [**Recommendation Systems**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems) ##
   - MovieLens Dataset
   - Collaborative Filtering Models
-    - Neighborhood-based
-    - Model-based
-  - Parallel Computing with Assigned Random State
+  - Parallel Computing with Assigned Random State (joblib package)
   
-4. **Regression**
-  -
+## **Regression** ##
   
-5. **Application: Twitter Data**
-  -
+## **Application: Twitter Data** ##
