@@ -4,21 +4,23 @@
 
 This repository records five class projects, with each one of them containing project description, python code implementation, as well as project report:
 
-## [**Classification Analysis**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification) ##
+
+## [**Classification**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project1-classification) ##
   - 20 Newsgroups Textual Dataset
-  - TF-IDF Metric
-  - Lemmatization
+  - TF-IDF Metric and Lemmatization
+  - Models include SVM, Logsitic Regression and Naive Bayes
+  - Multiclass Classification
   
-- [**Clustering Analysis on Textual Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project2-clustering)
+## [**Clustering**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project2-clustering) ##
+  - 20 Newsgroups Textual Dataset
   - Application: Image Segmentation
   
-3. [**Recommendation Systems on MovieLens Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems)
+## [**Recommendation Systems on MovieLens Data**](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project3-recommedation-systems) ##
   - Collaborative Filtering Models
   - Parallel Computing
   
 4. **Regression**
   -
-  - haha
   
 5. **Application: Twitter Data**
   -
