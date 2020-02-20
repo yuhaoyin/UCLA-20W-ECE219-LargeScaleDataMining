@@ -322,7 +322,7 @@ knn_rmse_high_var_trim = Parallel(n_jobs=-1, verbose=1, backend="multiprocessing
 # In[26]:
 
 
-plot_curve(ks, knn_rmse_high_var_trim, 'k', 'Root Mean Squared Error', 'KNN Collaborative Filter Performance after Unpopular Movie Trimming')
+plot_curve(ks, knn_rmse_high_var_trim, 'k', 'Root Mean Squared Error', 'KNN Collaborative Filter Performance after High Variance Movie Trimming')
 
 
 # In[27]:
