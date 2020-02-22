@@ -22,6 +22,6 @@ This repository records five class projects, with each one of them containing pr
   - Collaborative Filtering Models
   - Parallel Computing (joblib)
   
-## Project 4: Regression ##
+## [Project 4: Regression](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project4-regression) ##
   
 ## Project 5: Application: Twitter Data ##
