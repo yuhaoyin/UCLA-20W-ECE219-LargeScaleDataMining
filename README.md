@@ -23,5 +23,7 @@ This repository records five class projects, with each one of them containing pr
   - Parallel Computing (joblib)
   
 ## [Project 4: Regression](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project4-regression) ##
+  - Bike Sharing & Video Transcoding Time Datasets
+  - 
   
 ## Project 5: Application: Twitter Data ##
