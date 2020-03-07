@@ -24,6 +24,7 @@ This repository records five class projects, with each one of them containing pr
   
 ## [Project 4: Regression](https://github.com/yuhaoyin/UCLA-W20-ECE219-LargeScaleDataMining/tree/master/project4-regression) ##
   - Bike Sharing & Video Transcoding Time Datasets
-  - 
+  - Models include linear regression w and w/o regularization, polynomial regression, neural networks and random forest
+  - Pipelines and GridSearchCV for hyperparameters fine-tuning (sklearn.pipeline, sklearn.model_selection)
   
 ## Project 5: Application: Twitter Data ##
